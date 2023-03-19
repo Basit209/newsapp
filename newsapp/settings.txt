@@ -1,0 +1,2 @@
+root: C:\Users\ATIF\Desktop\REACT COURSE 2\newsapp
+path: C:\Program Files\nodejs
